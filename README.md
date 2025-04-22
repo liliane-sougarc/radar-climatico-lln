@@ -25,5 +25,19 @@ O projeto integra métricas exigidas por:
 - ESRS (European Sustainability Reporting Standards)
 - SFDR (Sustainable Finance Disclosure Regulation)
 
+
+---
+
+## Licença e Direitos Autorais
+
+Este projeto é protegido pela [licença Creative Commons CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.pt).
+
+Você pode visualizar e aprender com o código, mas **não pode usá-lo comercialmente, redistribuir versões modificadas ou removê-lo do contexto original.**
+
+**Todos os direitos reservados à criadora Liliane de Souza Garcia – LLN Automações.**
+
+Para parcerias ou implementação profissional, entre em contato:
+**llnautomacoes@gmail.com**
+
 ## Autora
 **Liliane de Souza Garcia**
